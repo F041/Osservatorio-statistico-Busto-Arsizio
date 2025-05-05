@@ -45,3 +45,6 @@ data/processed_data/*.csv
 
 # File di esportazione per Gemini
 exporta_codice_per_gemini.py
+
+# Ignora test_embed
+test_embed.html
